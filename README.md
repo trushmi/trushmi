@@ -1,8 +1,12 @@
 ## Hi there👋 I'm Iryna 
-Software Engineer with a strong background in the media industry and communications. I recently graduated from the Software Engineering Program at Hackbright Academy, where I honed my skills in full-stack development. 
-In every project, my aim is to translate complex technical objectives into relatable user experiences, bridging the gap between technology and intuitive user interaction.
-## Let's build future together 
-Here is how I can help:
+Welcome to my GitHub profile! I am Software Engineer with a strong background in the media industry and communications. Recently graduated from the Software Engineering Program at Hackbright Academy, where I honed my skills in full-stack development. 
+## About Me
+### 🎯 Focus: 
+I specialize in translating complex technical objectives into engaging, user-friendly experiences. My goal is to bridge the gap between cutting-edge technology and intuitive user interaction.
+### 🌍 Vision: 
+I believe in collaboratively building a future where technology enhances every aspect of life. Let's innovate and create together.
+
+## My Skillset:
 
 ## 🛠️ Languages and Tools:
 
@@ -39,7 +43,13 @@ Here is how I can help:
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 🤝 Let's Connect
+## What I Offer:
+* Problem Solving: Applying analytical skills to solve complex problems.
+* Project Management: Efficiently managing projects from concept to deployment.
+* Collaboration: Working in teams to merge diverse ideas into cohesive solutions.
+
+
+## 🤝 Connect With Me
 💼 [LinkedIn](https://www.linkedin.com/in/trushmi/)
 🌐 [Personal Website](https://mariatrush.com/)
 
