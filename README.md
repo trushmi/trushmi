@@ -1,10 +1,13 @@
-## Hi there👋 I'm Iryna 
-Welcome to my GitHub profile! I am Software Engineer with a strong background in the media industry and communications. Recently graduated from the Software Engineering Program at Hackbright Academy, where I honed my skills in full-stack development. 
+## Hi there👋 
+I'm Iryna – a Software Engineer with a robust background in the media industry and communications. I graduated from the Software Engineering Program at Hackbright Academy, where I honed my skills in full-stack development.
+
 ## About Me
-### 🎯 Focus: 
-I specialize in translating complex technical objectives into engaging, user-friendly experiences. My goal is to bridge the gap between cutting-edge technology and intuitive user interaction.
-### 🌍 Vision: 
-I believe in collaboratively building a future where technology enhances every aspect of life. Let's innovate and create together.
+* I thrive on exploring new ideas and pushing the boundaries of what's possible;
+* I believe in the power of teamwork. Collaborating with diverse minds brings out the best solutions and fosters a positive, creative environment;
+* I value honesty, transparency, and ethical conduct;
+* I am driven by the desire to make a meaningful impact. Whether it's in code, communication, or collaboration, I strive to leave a positive mark on the projects I undertake
+
+
 
 ## My Skillset:
 
