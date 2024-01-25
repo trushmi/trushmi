@@ -1,7 +1,7 @@
 ## Hi there👋 
-I'm Iryna – a Software Engineer with a robust background in the media industry and communications. I graduated from the Software Engineering Program at Hackbright Academy, where I honed my skills in full-stack development.
+I'm Iryna – a Software Engineer with a robust background in the media industry and communications. Graduated from the Software Engineering Program at Hackbright Academy. Specializing in the full stack development of SPAs and adept at solving complex algorithmic challenges. Exceptional in driving projects to delivery and generating well thought ideas. 
 
-## About Me
+## My values: 
 * I thrive on exploring new ideas and pushing the boundaries of what's possible;
 * I believe in the power of teamwork. Collaborating with diverse minds brings out the best solutions and fosters a positive, creative environment;
 * I value honesty, transparency, and ethical conduct;
