@@ -46,12 +46,6 @@ I'm Iryna – a Software Engineer with a robust background in the media industry
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## What I Offer:
-* Problem Solving: Applying analytical skills to solve complex problems.
-* Project Management: Efficiently managing projects from concept to deployment.
-* Collaboration: Working in teams to merge diverse ideas into cohesive solutions.
-
-
 ## 🤝 Connect With Me
 💼 [LinkedIn](https://www.linkedin.com/in/trushmi/)
 🌐 [Personal Website](https://mariatrush.com/)
