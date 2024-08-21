@@ -1,11 +1,9 @@
 ## Hi there👋 
 I'm Iryna – a Software Engineer with a background in the media industry and communications. Graduated from the Software Engineering Program at Hackbright Academy. Specializing in the full stack development of SPAs and adept at solving complex algorithmic challenges. Exceptional in driving projects to delivery and generating well thought ideas. 
 
-## My values: 
-* I thrive on exploring new ideas and pushing the boundaries of what's possible;
-* I believe in the power of teamwork. Collaborating with diverse minds brings out the best solutions and fosters a positive, creative environment;
-* I value honesty, transparency, and ethical conduct;
-* I am driven by the desire to make a meaningful impact. Whether it's in code, communication, or collaboration, I strive to leave a positive mark on the projects I undertake
+## What Matters to Me: 
+* Teamwork: I believe that working with people from different backgrounds brings out the best solutions and creates a positive, creative vibe.
+* Results: I'm motivated by making a real difference. Whether it's through coding, communication, or teamwork, I aim to leave a positive impact on the projects I work on.
 
 ## 🛠️ Languages I speak and Tools I use:
 
