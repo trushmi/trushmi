@@ -1,5 +1,5 @@
 ## Hi there👋 
-I'm Iryna – a Software Engineer with a robust background in the media industry and communications. Graduated from the Software Engineering Program at Hackbright Academy. Specializing in the full stack development of SPAs and adept at solving complex algorithmic challenges. Exceptional in driving projects to delivery and generating well thought ideas. 
+I'm Iryna – a Software Engineer with a background in the media industry and communications. Graduated from the Software Engineering Program at Hackbright Academy. Specializing in the full stack development of SPAs and adept at solving complex algorithmic challenges. Exceptional in driving projects to delivery and generating well thought ideas. 
 
 ## My values: 
 * I thrive on exploring new ideas and pushing the boundaries of what's possible;
@@ -34,8 +34,14 @@ I'm Iryna – a Software Engineer with a robust background in the media industry
 ![NLTK](https://img.shields.io/badge/-NLTK-333333?style=flat-square&logo=nltk&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ## 🤝 Let's connect
-Feel free to reach out if you have any questions or just want to chat about code!
-Here is my [LinkedIn](https://www.linkedin.com/in/trushmi/) profile. 
+Have questions or just want to chat about code?
+Message me on [LinkedIn](https://www.linkedin.com/in/trushmi/). 
+
+Thanks for visiting!
+
+Best wishes,
+
+Iryna
 
 <!--
 **trushmi/trushmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
