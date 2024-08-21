@@ -4,6 +4,8 @@ I'm Iryna – a Software Engineer with a background in the media industry and co
 ## What Matters to Me: 
 * Teamwork: I believe that working with people from different backgrounds brings out the best solutions and creates a positive, creative vibe.
 * Results: I'm motivated by making a real difference. Whether it's through coding, communication, or teamwork, I aim to leave a positive impact on the projects I work on.
+* New Ideas: I love exploring new ideas and pushing the boundaries of what's possible.
+* Integrity: I value honesty, transparency, and ethical conduct.
 
 ## 🛠️ Languages I speak and Tools I use:
 
