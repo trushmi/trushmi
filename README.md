@@ -4,8 +4,8 @@ I'm Iryna (pronounced as ee-RIN-ah), a software engineer with a background in th
 ## What Matters to Me: 
 * Results: I'm motivated by making a real difference. Whether it's through coding, communication, or teamwork, I aim to leave a positive impact on the projects I work on.
 * Teamwork: I believe that working with people from different backgrounds brings out the best solutions and creates a positive, creative vibe.
-* New Ideas: I love exploring new ideas and pushing the boundaries of what's possible.
-* Integrity: I value honesty, transparency, and ethical conduct.
+* New Ideas: I love exploring new ideas and pushing the limits of what is possible.
+* Integrity: I value honesty, transparency, and ethical conduct, and I always strive to create good names for variables
 
 ## 🛠️ Languages I speak and Tools I use:
 
