@@ -1,6 +1,6 @@
 ## Hi there👋 
 
-I'm Iryna (pronounced ee-RIN-ah), a software engineer with a background in the media industry and communications. I develop full-stack applications to help people and organizations reach their full potential, and I excel at delivering results and completing projects on time. I always bring fresh ideas to the table and enjoy solving complex algorithmic challenges.
+I'm Iryna (pronounced ee-RIN-ah), a software engineer with a background in the media industry and communications. I develop full-stack applications to help people and organizations reach their full potential through technology, and I excel at delivering results and completing projects on time. I always bring fresh ideas to the table and enjoy solving complex algorithmic challenges. Getting to know me better:
 
 ## What Matters to Me: 
 * Results: I'm motivated by making a real difference. Whether it's through coding, communication, or teamwork, I aim to leave a positive impact on the projects I work on.
