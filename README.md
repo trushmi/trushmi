@@ -7,6 +7,24 @@ I'm Iryna (pronounced as ee-RIN-ah), a software engineer with a background in th
 * New Ideas: I love exploring new ideas and pushing the limits of what is possible.
 * Integrity: I value honesty, transparency, and ethical conduct, and I always strive to create good names for variables
 
+## My Coding Journey
+
+I started my journey by writing “Hello, World!” in JavaScript. Since then, I have gained experience working with various programming languages and technologies and collaborated with amazing people on interesting projects.
+
+In the beginning, I learned JavaScript on my own, followed by React, and built my first project and a portfolio website. Eager to learn more and pursue a career in software engineering, I enrolled in the coding bootcamp Hackbright Academy, where I completed over 800 hours of learning and successfully delivered 15+ solo, pair, and group projects. At the bootcamp, I learned Python as my second programming language, basics of Java and how to work with relational databases like PostgreSQL.
+
+After graduating, I developed a TV show time tracker, a responsive web app with state-of-the-art design to track the time you spend on TV shows. I optimized the app for rendering performance and used open APIs to gather show data, images, and seasons.
+
+Eager to learn more about full-stack development, AWS, and testing, I joined the Software Engineering Fellowship at ProgramEquity. There, I had the opportunity to deepen my knowledge and work with the codebase of an open-source project for the first time.
+
+I then continued enhancing my skills as a software engineer by building a smart shopping list web application with The Collab Lab, an organization that helps early-career developers gain practical experience with support from mentors.
+
+While building this app in collaboration with other software engineers, I expanded my knowledge of React, learned how to work with Firebase, and had the chance to conduct code reviews, work on user story points, and improve the app’s features such as item addition and deletion, validations, sorting, and filtering.
+
+The next stop in my coding journey - an open-source project, ‘Support SFUSD,’ from SF Civic Tech. With a talented team of software engineers, I helped develop a website to engage San Francisco residents and workers in supporting local schools and building strong communities. In this project, I gained experience working with TypeScript and implemented search functionality by working across the stack. I built Prisma DB queries, crafted accessible autocomplete components, and integrated both parts, enhancing user experience and allowing users to search for selected schools in both list and map views.
+
+I am always eager to learn and expand my knowledge. Currently, I am building a new project in C# and continue to develop my expertise.
+
 ## 🛠️ Languages I speak and Tools I use:
 
 ### Languages:
@@ -35,12 +53,9 @@ I'm Iryna (pronounced as ee-RIN-ah), a software engineer with a background in th
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ## 🤝 Let's connect
 Have questions or just want to chat about code?
-Message me on [LinkedIn](https://www.linkedin.com/in/trushmi/). 
+Message me on [LinkedIn](https://www.linkedin.com/in/trushmi/) and thanks for visiting!
 
-Thanks for visiting!
-
-Best wishes,
-
+Best,
 Iryna
 
 <!--
