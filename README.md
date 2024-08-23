@@ -27,31 +27,17 @@ The next stop in my coding journey - an open-source project, ‘Support SFUSD,�
 I am always eager to learn and expand my knowledge. Currently, I am building a new project in C# and continue to develop my expertise.
 
 ## 🛠️ Languages I speak and Tools I use:
+## 🚀 Technical Skills
 
-### Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-### Frameworks & DBs:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat-square&logo=jinja&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=sqlalchemy&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-### Tools & Systems:
-![Command Line](https://img.shields.io/badge/-Command_Line-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-### ML/AI & Cloud:
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-333333?style=flat-square&logo=nltk&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+### 🖥️ Frontend : ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![Radix UI](https://img.shields.io/badge/-Radix%20UI-000000?logo=radix-ui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend : ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white), ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white), ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white), ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white), ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white), ![Rest API](https://img.shields.io/badge/-REST%20API-02569B?logo=restapi&logoColor=white)
+
+### 🧪 Testing:  ![TDD](https://img.shields.io/badge/-Test%20Driven%20Development-333333?logo=test&logoColor=white), ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white), ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white), ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
+
+### 🛠️ Other: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white), ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white), ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black), ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white), ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white), ![NLTK](https://img.shields.io/badge/-NLTK-85BAE1?logo=nltk&logoColor=black), ![OO Design Patterns](https://img.shields.io/badge/-Object%20Oriented%20Design-007ACC?logo=design&logoColor=white), ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white), ![Agile](https://img.shields.io/badge/-Agile-00D09C?logo=agile&logoColor=white)
+
+
 ## 🤝 Let's connect
 Have questions or just want to chat about code?
 Message me on [LinkedIn](https://www.linkedin.com/in/trushmi/) and thanks for visiting!
