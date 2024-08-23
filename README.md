@@ -27,7 +27,6 @@ The next stop in my coding journey - an open-source project, ‘Support SFUSD,�
 I am always eager to learn and expand my knowledge. Currently, I am building a new project in C# and continue to develop my expertise.
 
 ## 🛠️ Languages I speak and Tools I use:
-## 🚀 Technical Skills
 
 ### 🖥️ Frontend : ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![Radix UI](https://img.shields.io/badge/-Radix%20UI-000000?logo=radix-ui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
