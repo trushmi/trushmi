@@ -10,21 +10,21 @@ I'm Iryna (pronounced ee-RIN-ah), a software engineer with a background in the m
 
 ## My Coding Journey
 
-I started my journey by writing “Hello, World!” in JavaScript. Since then, I have gained experience working with various programming languages and technologies and collaborated with amazing people on interesting projects.
+I started my journey by writing “Hello, World!” in JavaScript. Since then, I have expanded my expertise across multiple programming languages and technologies and collaborated with talented professionals on a variety of interesting projects.
 
-In the beginning, I learned JavaScript on my own, followed by React, and built my first project and a portfolio website. Eager to learn more and pursue a career in software engineering, I enrolled in the coding bootcamp Hackbright Academy, where I completed over 800 hours of learning and successfully delivered 15+ solo, pair, and group projects. At the bootcamp, I learned Python as my second programming language, basics of Java and how to work with relational databases like PostgreSQL.
+After teaching myself JavaScript and React, I built my first project and portfolio website. Driven by a passion for software engineering, I enrolled in Hackbright Academy's coding bootcamp, where I completed 800+ hours of intensive training and successfully delivered 15+ solo, pair, and group projects. During the bootcamp, I learned Python as my second programming language, gained foundational knowledge in Java, and developed skills in working with relational databases like PostgreSQL.
 
-After graduating, I developed a TV show time tracker, a responsive web app with state-of-the-art design to track the time you spend on TV shows. I optimized the app for rendering performance and used open APIs to gather show data, images, and seasons.
+Post-graduation, I developed a responsive TV show tracker app optimized for performance and data integration using React and JavaScript.
 
-Eager to learn more about full-stack development, AWS, and testing, I joined the Software Engineering Fellowship at ProgramEquity. There, I had the opportunity to deepen my knowledge and work with the codebase of an open-source project for the first time.
+To deepen my full-stack skills, learn AWS and testing, I joined ProgramEquity’s Software Engineering Fellowship, working on an open-source project.
 
 I then continued enhancing my skills as a software engineer by building a smart shopping list web application with The Collab Lab, an organization that helps early-career developers gain practical experience with support from mentors.
 
-While building this app in collaboration with other software engineers, I expanded my knowledge of React, learned how to work with Firebase, and had the chance to conduct code reviews, work on user story points, and improve the app’s features such as item addition and deletion, validations, sorting, and filtering.
+While contributing to this project, I expanded my knowledge of React, learned how to work with Firebase, and had the chance to conduct code reviews, work on user story points, and develop 15+ features such as item addition and deletion, validations, sorting, and filtering.
 
-The next stop in my coding journey - an open-source project, ‘Support SFUSD,’ from SF Civic Tech. With a talented team of software engineers, I helped develop a website to engage San Francisco residents and workers in supporting local schools and building strong communities. In this project, I gained experience working with TypeScript and implemented search functionality by working across the stack. I built Prisma DB queries, crafted accessible autocomplete components, and integrated both parts, enhancing user experience and allowing users to search for selected schools in both list and map views.
+My journey continued with the ‘Support SFUSD’ project, where I contributed to building a website that engages San Francisco residents in supporting local schools. I gained hands-on experience with TypeScript and implemented search functionality across the stack to enhance the user experience.
 
-I am always eager to learn and expand my knowledge. Currently, I am building a new project in C# and continue to develop my expertise.
+I am always eager to learn and expand my knowledge. Currently, I am building a new project in C# and continuing to develop my expertise.
 
 ## 🛠️ Languages I speak and Tools I use:
 
