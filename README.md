@@ -34,12 +34,6 @@ I am always eager to learn and expand my knowledge. Currently, I am building a n
 
 ## 🤝 Let's connect
 Have questions or just want to chat about code? Message me on [LinkedIn](https://www.linkedin.com/in/trushmi/)!
-
-
-Best,
-
-Iryna
-
 <!--
 **trushmi/trushmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
