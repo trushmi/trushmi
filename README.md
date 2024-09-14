@@ -1,5 +1,4 @@
 ## Hi there👋 
-
 I'm Iryna (pronounced ee-RIN-ah), a software engineer with a background in the media industry and communications. I develop full-stack applications to help people and organizations reach their full potential through technology, and I excel at delivering results and completing projects on time. I always bring fresh ideas to the table and enjoy solving complex algorithmic challenges. Getting to know me better:
 
 ## What Matters to Me: 
@@ -13,8 +12,13 @@ I'm Iryna (pronounced ee-RIN-ah), a software engineer with a background in the m
 ### ⚙️ Backend : ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white) ![Rest API](https://img.shields.io/badge/-REST%20API-02569B?logo=restapi&logoColor=white)
 ### 🧪 Testing:  ![TDD](https://img.shields.io/badge/-Test%20Driven%20Development-333333?logo=test&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white) ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
 ### 🛠️ Other: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![NLTK](https://img.shields.io/badge/-NLTK-85BAE1?logo=nltk&logoColor=black) ![OO Design Patterns](https://img.shields.io/badge/-Object%20Oriented%20Design-007ACC?logo=design&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![Agile](https://img.shields.io/badge/-Agile-00D09C?logo=agile&logoColor=white)
-## My Coding Journey
 
+### My Coding Journey
+
+<details>
+  
+<summary> Open to read </summary>
+	<br/>
 I started my journey by writing “Hello, World!” in JavaScript. Since then, I have expanded my expertise across multiple programming languages and technologies and collaborated with talented professionals on a variety of interesting projects.
 
 After teaching myself JavaScript and React, I built my first project and portfolio website. Driven by a passion for software engineering, I enrolled in Hackbright Academy's coding bootcamp, where I completed 800+ hours of intensive training and successfully delivered 15+ solo, pair, and group projects. During the bootcamp, I learned Python as my second programming language, gained foundational knowledge in Java, and developed skills in working with relational databases like PostgreSQL.
@@ -30,6 +34,7 @@ While contributing to this project, I expanded my knowledge of React, learned ho
 My journey continued with the ‘Support SFUSD’ project, where I contributed to building a website that engages San Francisco residents in supporting local schools. I gained hands-on experience with TypeScript and implemented search functionality across the stack to enhance the user experience.
 
 I am always eager to learn and expand my knowledge. Currently, I am building a new project in C# and continuing to develop my expertise.
+</details>
 
 
 ## 🤝 Let's connect
