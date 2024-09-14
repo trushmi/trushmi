@@ -13,7 +13,7 @@ I'm Iryna (pronounced ee-RIN-ah), a software engineer with a background in the m
 #### 🧪 Testing:  ![TDD](https://img.shields.io/badge/-Test%20Driven%20Development-333333?logo=test&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white) ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
 #### 🛠️ Other: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![NLTK](https://img.shields.io/badge/-NLTK-85BAE1?logo=nltk&logoColor=black) ![OO Design Patterns](https://img.shields.io/badge/-Object%20Oriented%20Design-007ACC?logo=design&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![Agile](https://img.shields.io/badge/-Agile-00D09C?logo=agile&logoColor=white)
 
-### My Coding Journey
+## My Coding Journey
 
 <details>
   
