@@ -3,10 +3,10 @@ I'm Iryna (pronounced ee-RIN-ah), a software engineer with a background in the m
 Getting to know me better:
 
 ## What Matters to Me: 
-* Results: I'm motivated by making a real difference. Whether it's through coding, communication, or teamwork, I aim to leave a positive impact on the projects I work on.
-* Teamwork: I believe that working with people from different backgrounds brings out the best solutions and creates a positive, creative vibe.
-* New Ideas: I love exploring new ideas and pushing the limits of what is possible.
-* Integrity: I value honesty, transparency, and ethical conduct, and I always strive to create good names for variables
+* `Results`: I'm motivated by making a real difference. Whether it's through coding, communication, or teamwork, I aim to leave a positive impact on the projects I work on.
+* `Teamwork`: I believe that working with people from different backgrounds brings out the best solutions and creates a positive, creative vibe.
+* `New Ideas`: I love exploring new ideas and pushing the limits of what is possible.
+* `Integrity`: I value honesty, transparency, and ethical conduct, and I always strive to create good names for variables
 
 ## 🛠️ Languages I speak and Tools I use:
 #### 🖥️ Frontend : ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![Radix UI](https://img.shields.io/badge/-Radix%20UI-000000?logo=radix-ui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
@@ -38,8 +38,8 @@ I am always eager to learn and expand my knowledge. Currently, I am building a n
 </details>
 
 
-## 🤝 Let's connect
-Have questions or just want to chat about code? Message me on [LinkedIn](https://www.linkedin.com/in/trushmi/)!
+## Let's connect 🤝 
+Want to chat about code or build something together? Message me on [LinkedIn](https://www.linkedin.com/in/trushmi/)!
 <!--
 **trushmi/trushmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
