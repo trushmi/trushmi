@@ -20,28 +20,6 @@ Getting to know me better:
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" aria-label="Docker"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" aria-label="TensorFlow">
 <img src="https://img.shields.io/badge/-NLTK-85BAE1?logo=nltk&logoColor=black" alt="NLTK" aria-label="NLTK"> <img src="https://img.shields.io/badge/-Object Oriented Design-007ACC?logo=design&logoColor=white" alt="Object Oriented Design" aria-label="Object Oriented Design"> <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white" alt="Jira" aria-label="Jira"> <img src="https://img.shields.io/badge/-Agile-00D09C?logo=agile&logoColor=white" alt="Agile" aria-label="Agile">
 
-### My coding journey
-
-<details>
-  
-<summary> Open to read </summary>
-	<br/>
-I started my journey by writing “Hello, World!” in JavaScript. Since then, I have expanded my expertise across multiple programming languages and technologies and collaborated with talented professionals on a variety of interesting projects.
-
-After teaching myself JavaScript and React, I built my first project and portfolio website. Driven by a passion for software engineering, I enrolled in Hackbright Academy's coding bootcamp, where I completed 800+ hours of intensive training and successfully delivered 15+ solo, pair, and group projects. During the bootcamp, I learned Python as my second programming language, gained foundational knowledge in Java, and developed skills in working with relational databases like PostgreSQL.
-
-Post-graduation, I developed a responsive TV show tracker app optimized for performance and data integration using React and JavaScript.
-
-To deepen my full-stack skills, learn AWS and testing, I joined ProgramEquity’s Software Engineering Fellowship, working on an open-source project.
-
-I then continued enhancing my skills as a software engineer by building a smart shopping list web application with The Collab Lab, an organization that helps early-career developers gain practical experience with support from mentors.
-
-While contributing to this project, I expanded my knowledge of React, learned how to work with Firebase, and had the chance to conduct code reviews, work on user story points, and develop 15+ features such as item addition and deletion, validations, sorting, and filtering.
-
-My journey continued with the ‘Support SFUSD’ project, where I contributed to building a website that engages San Francisco residents in supporting local schools. I gained hands-on experience with TypeScript and implemented search functionality across the stack to enhance the user experience.
-
-I am always eager to learn and expand my knowledge. Currently, I am building a new project in C# and continuing to develop my expertise.
-</details>
 
 
 #### Let's connect 
