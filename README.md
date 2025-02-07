@@ -1,14 +1,8 @@
 # Hi there👋 
 
-I'm Iryna (pronounced ee-RIN-ah), a software engineer with a background in the media industry and communications. I develop full-stack applications to help people and organizations reach their full potential through technology. 
+I'm Iryna (pronounced ee-RIN-ah), a software engineer with a background in the media industry and communications. 
 
-## What matters to me: 
-* `Results`: I'm motivated by making a real difference. Whether it's through coding, communication, or teamwork, I aim to leave a positive impact on the projects I work on.
-* `Teamwork`: I believe that working with people from different backgrounds brings out the best solutions and creates a positive, creative vibe.
-* `New ideas`: I love exploring new ideas and pushing the limits of what is possible.
-* `Integrity`: I value honesty, transparency, and ethical conduct, and I always strive to create good names for variables
-
-## Languages I speak and tools I use:
+I build full-stack applications to empower people and organizations to reach their full potential. Here are the technologies I work with:
 - Frontend : <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" aria-label="JavaScript">   <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" aria-label="TypeScript">  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" aria-label="React"> <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" aria-label="HTML"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" aria-label="CSS"> <img src="https://img.shields.io/badge/-Radix%20UI-000000?logo=radix-ui&logoColor=white" alt="Radix UI" aria-label="Radix UI"> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" aria-label="Bootstrap">
 
 - Backend : <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" aria-label="Python"> <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" aria-label="Flask"> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" aria-label="PostgreSQL"> <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" alt="SQL" aria-label="SQL"> <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" aria-label="SQLAlchemy"> <img src="https://img.shields.io/badge/-REST API-02569B?logo=restapi&logoColor=white" alt="REST API" aria-label="REST API">
@@ -20,8 +14,6 @@ I'm Iryna (pronounced ee-RIN-ah), a software engineer with a background in the m
 <img src="https://img.shields.io/badge/-NLTK-85BAE1?logo=nltk&logoColor=black" alt="NLTK" aria-label="NLTK"> <img src="https://img.shields.io/badge/-Object Oriented Design-007ACC?logo=design&logoColor=white" alt="Object Oriented Design" aria-label="Object Oriented Design"> <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white" alt="Jira" aria-label="Jira"> <img src="https://img.shields.io/badge/-Agile-00D09C?logo=agile&logoColor=white" alt="Agile" aria-label="Agile">
 
 
-
-#### Let's connect 
 Want to chat about code or build something together? Message me on [LinkedIn](https://www.linkedin.com/in/trushmi/)!
 
 
